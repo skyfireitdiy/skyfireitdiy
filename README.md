@@ -9,7 +9,7 @@
 | [**Jarvis**](https://github.com/skyfireitdiy/Jarvis) | 多智能体协作框架，让 AI 智能体协同工作、操作你的电脑、浏览网页 |
 | [**mockrs**](https://github.com/skyfireitdiy/mockrs) | Rust 自由函数 mock 库 |
 | [**dotfile**](https://github.com/skyfireitdiy/dotfile) | 我的 Vim 配置 |
-| [**sflib**](https://github.com/skyfireitdiy/sflib) | 个人实现的一些玩具轮子 |
+| [**cocpp**](https://github.com/skyfireitdiy/cocpp) | C++ 协程库（cocpp-doc 配套文档） |
 
 ## 🧰 技术栈
 
